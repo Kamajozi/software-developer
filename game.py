@@ -1,6 +1,7 @@
 #create a definition
 import random
 
+#git 
 def guess_the_number(number):
     #The computer randomly selects a number between 1 and 100
     number_to_guess = random.randint(1, 100)
